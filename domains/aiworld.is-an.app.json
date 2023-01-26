@@ -1,0 +1,16 @@
+{
+	"$schema": "../schemas/domain.schema.json",
+	"description": "ai world - future of world",
+	"domain": "is-an.app",
+	"subdomain": "aiworld",
+	"owner": {
+		"repo": "https://github.com/paranical/free-domains",
+		"email": "farshad179@yahoo.com"
+	},
+	"record": {
+		"NS": [
+			"chip.ns.cloudflare.com",
+			"cruz.ns.cloudflare.com"
+		]
+	}
+}
